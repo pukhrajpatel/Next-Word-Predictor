@@ -1,0 +1,12 @@
+11	10	<s>	<s>
+0
+1	0	</s>	</s>	2.79429984
+2	1	<eps>	<eps>	3.73083472
+3	2	<eps>	<eps>	0.94719851
+4	3	president	president	4.43884516
+5	4	XXX	new	2.28636694
+6	5	a	a	1.66268384
+7	6	needs	needs	3.80834913
+8	7	country	country	4.11934328
+9	8	this	this	5.65612078
+10	9	<eps>	<eps>	0.415253729
